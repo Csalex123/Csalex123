@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey There! 👋
+
+My name is Alex Ricardo and I develop websites and applications. I'm addicted and passionate about codes! I've been designing and coding on the web since 2017.
+
+I usually work with front-end technology like HTML, CSS, JavaScript and I love working with React.JS frameworks.
+
+I enjoy solving problems(🤔), playing video games(⚡), watching series(🎞️), playing sports(⚽️), traveling, socializing(💬) and programming(🧑🏼‍💻)!
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alex-ricardo-233054154](www.linkedin.com/in/alex-ricardo-233054154)
 
 <!--
 **Csalex123/Csalex123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
