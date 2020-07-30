@@ -6,8 +6,6 @@ I usually work with front-end technology like HTML, CSS, JavaScript and I love w
 
 I enjoy solving problems(🤔), playing video games(⚡), watching series(🎞️), playing sports(⚽️), traveling, socializing(💬) and programming(🧑🏼‍💻)!
 
-Would you like to find me?
-
 ![GitHub followers](https://img.shields.io/github/followers/Csalex123?style=social)
 
 
