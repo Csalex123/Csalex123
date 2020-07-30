@@ -4,7 +4,7 @@ My name is Alex Ricardo and I develop websites and applications. I'm addicted an
 
 I usually work with front-end technology like HTML, CSS, JavaScript and I love working with React.JS frameworks.
 
-I enjoy solving problems(🤔), playing video games(⚡), watching series(🎞️), playing sports(⚽️), traveling, socializing(💬) and programming(🧑🏼‍💻)!
+In my spare time I usually play video games(⚡), watch series(🎞️), play sports(⚽️), travel(✈️), socialize(💬) and read book(📚)!
 
 ![GitHub followers](https://img.shields.io/github/followers/Csalex123?style=social)
 
