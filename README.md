@@ -5,7 +5,7 @@ front-end and also the back-end, I always try to keep myself at a high level, al
 
 Contact-me on: 
 
-[![My website](https://i.ibb.co/RTpqvwx/QRCode-criar-1.png)
+![My website](https://i.ibb.co/RTpqvwx/QRCode-criar-1.png)
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=csalex123&show_icons=true&theme=radical)
 
