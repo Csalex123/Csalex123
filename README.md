@@ -7,8 +7,6 @@ Contact-me on:
 
 [![My website](https://i.ibb.co/RTpqvwx/QRCode-criar-1.png)
 
-![GitHub followers](https://img.shields.io/github/followers/Csalex123?style=social)
-
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=csalex123&show_icons=true&theme=radical)
 
 
