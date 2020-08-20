@@ -8,4 +8,6 @@ In my spare time I usually play video games(⚡), watch series(🎞️), play sp
 
 ![GitHub followers](https://img.shields.io/github/followers/Csalex123?style=social)
 
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=csalex123&show_icons=true&theme=radical)
+
 
