@@ -17,6 +17,8 @@ Contact-me on:
   <img src="https://badges.pufler.dev/repos/csalex123?logo=GitHub&label=Github%20repositories&color=blue&logoColor=white&style=flat-square" alt="github repositories count" />
 </a>
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alex-ricardo-233054154/)
+
 
 
 
