@@ -29,6 +29,9 @@ front-end and also the back-end, I always try to keep myself at a high level, al
   <a target="_blank" href="https://pt-br.reactjs.org/">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   </a>
+   <a target="_blank" href="https://nodejs.org/en/">
+    <img alt="Node" src="https://img.shields.io/badge/-Node-5D9955?style=flat-square&logo=react&logoColor=white" />
+  </a>
   <a target="_blank" href="https://git-scm.com/">
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </a>
@@ -43,7 +46,14 @@ front-end and also the back-end, I always try to keep myself at a high level, al
   </a>
 </p>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alex-ricardo-233054154/)
+<br />
+<h3 align="center"><b>Where to find me</b></h3>
+
+<p align="center">
+<a href="https://github.com/Csalex123" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a target="_blank" href="https://www.linkedin.com/in/alex-ricardo-233054154/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a target="_blank" href="https://www.instagram.com/alex._ricardo/" target="_blank"><img alt="Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
 
 
 
