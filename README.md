@@ -30,7 +30,7 @@ front-end and also the back-end, I always try to keep myself at a high level, al
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   </a>
    <a target="_blank" href="https://nodejs.org/en/">
-    <img alt="Node" src="https://img.shields.io/badge/-Node-5D9955?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Node" src="https://img.shields.io/badge/-Node-5D9955?style=flat-square&logo=node&logoColor=white" />
   </a>
   <a target="_blank" href="https://git-scm.com/">
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
