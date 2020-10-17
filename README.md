@@ -8,11 +8,9 @@ Contact-me on:
 
 ![My website](https://i.ibb.co/RTpqvwx/QRCode-criar-1.png)
 
-</p>
- 
- [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Csalex1236&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
- <a><img src="https://github-readme-stats.vercel.app/api?username=csalex123&show_icons=true&theme=graywhite" /></a>
-</p> 
+<a href="https://github.com/csalex123?tab=repositories">
+  <img src="https://badges.pufler.dev/repos/csalex123?logo=GitHub&label=Github%20repositories&color=blue&logoColor=white&style=flat-square" alt="github repositories count" />
+</a>
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=csalex123&show_icons=true&theme=radical)
 
