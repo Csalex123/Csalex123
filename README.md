@@ -5,7 +5,7 @@ front-end and also the back-end, I always try to keep myself at a high level, al
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=csalex123&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=csalex123&html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=csalex123&hode=html&theme=tokyonight">
 </p>
 
 <a href="https://github.com/csalex123?tab=repositories">
