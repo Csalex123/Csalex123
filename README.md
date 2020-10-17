@@ -5,7 +5,7 @@ front-end and also the back-end, I always try to keep myself at a high level, al
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=csalex123&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=csalex123&hode=html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=csalex123&hide=html&theme=tokyonight">
 </p>
 
 <a href="https://github.com/csalex123?tab=repositories">
@@ -30,7 +30,7 @@ front-end and also the back-end, I always try to keep myself at a high level, al
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   </a>
    <a target="_blank" href="https://nodejs.org/en/">
-    <img alt="Node" src="https://img.shields.io/badge/-Node-5D9955?style=flat-square&logo=node&logoColor=white" />
+    <img alt="Node" src="https://img.shields.io/badge/-Node-5D9955?style=flat-square&logo=nodejs&logoColor=white" />
   </a>
   <a target="_blank" href="https://git-scm.com/">
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
