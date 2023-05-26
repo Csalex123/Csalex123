@@ -1,6 +1,6 @@
 ### Hey There! 👋
 
-Hello, my name is Alex Ricardo I am graduated from IFPE in Informatics for Internet and I develop websites for a little while more than 3 years. I'm in love with
+Hello, my name is Alex Ricardo I am graduated from IFPE in Informatics for Internet and I develop websites for a little while more than 4 years. I'm in love with
 front-end and also the back-end, I always try to keep myself at a high level, always learning new technologies and doing what I like with great pleasure which is programming.
 
 <p align = "center">
